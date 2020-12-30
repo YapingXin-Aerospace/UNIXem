@@ -92,3 +92,4 @@ test/tests-plan.txt
 *.vc8.sln
 *.vc9.sln
 
+/.vs
